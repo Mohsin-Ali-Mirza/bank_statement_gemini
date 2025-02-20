@@ -18,7 +18,7 @@ Ensure you have the following installed and set up:
     
     ```sh
     git clone https://github.com/Mohsin-Ali-Mirza/bank_statement_gemini
-    cd your-repository
+    cd bank_statement_gemini
     
     ```
     
